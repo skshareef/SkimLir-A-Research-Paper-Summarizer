@@ -25,11 +25,7 @@ The Hybrid Embedding Layer Model in the SkimLit project is an innovative approac
 ### 5. **Transfer Learning with Pretrained Token, Character, and Positional Embeddings**
 This model leverages transfer learning to utilize pretrained embeddings, which brings a foundational understanding of language that is then built upon with additional embeddings that capture character-level and positional information.
 
-## Contributing
-Contributions to SkimLit are welcome! Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests to us.
 
-## License
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
 ## Acknowledgments
 - Thanks to all contributors who have participated in the development of SkimLit.
